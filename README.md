@@ -2,7 +2,7 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Opento+Intern+Software+Engineer;Web+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Opento+Intern+Software+Engineer;Web+Developer;Full+Stack+Developer;UI/UX+Designer;Always+learning+new+things"></a>
 </p>
 
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
